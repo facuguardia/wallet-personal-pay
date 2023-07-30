@@ -1,10 +1,10 @@
+import { useEffect, useState } from "react";
 import Header from "./components/Header";
 import CardHero from "./components/CardHero";
 import CardVisa from "./components/CardVisa";
 import Navbar from "./components/Navbar";
 import Actions from "./components/Actions";
 import News from "./components/News";
-import { useEffect, useState } from "react";
 import DesktopAccessScreen from "./components/DesktopAccessScreen";
 function App() {
   const [isDesktop, setIsDesktop] = useState(false);

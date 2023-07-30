@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import AvatarImg from "./../../public/images/profile-1.png";
+import AvatarImg from "/images/profile-1.png";
 import {IoNotificationsOutline} from 'react-icons/io5';
 
 

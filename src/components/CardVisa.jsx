@@ -1,5 +1,5 @@
-import VisaLogo from "./../../public/images/visa.png";
-import CardPay from "./../../public/images/logo-pay.png";
+import VisaLogo from "/images/visa.png";
+import CardPay from "/images/logo-pay.png";
 
 function CardVisa() {
   return (

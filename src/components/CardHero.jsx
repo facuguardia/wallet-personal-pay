@@ -1,7 +1,7 @@
 import { AiOutlineEye } from "react-icons/ai";
 import { FiArrowUpRight, FiArrowDownLeft, FiArrowUp } from "react-icons/fi";
 import ButtonHero from "./ButtonHero";
-import IconLevel from "./../../public/images/icon-level.png";
+import IconLevel from "/images/icon-level.png";
 
 function CardHero() {
   return (

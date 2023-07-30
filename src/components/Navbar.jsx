@@ -1,7 +1,7 @@
 import { LiaHomeSolid, LiaWalletSolid } from "react-icons/lia";
 import { RiMenuUnfoldLine } from "react-icons/ri";
 import { BiCool } from "react-icons/bi";
-import ImgQR from "./../../public/images/qr.png";
+import ImgQR from "/images/qr.png";
 
 function Navbar() {
   return (

@@ -1,5 +1,5 @@
-import Card1 from "./../../public/images/card1.png";
-import Card2 from "./../../public/images/card2.png";
+import Card1 from "/images/card1.png";
+import Card2 from "/images/card2.png";
 import { MdKeyboardDoubleArrowRight } from "react-icons/md";
 
 function News() {
